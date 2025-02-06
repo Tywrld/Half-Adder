@@ -36,3 +36,8 @@ Sum of 3:
 ![Screenshot 2025-02-06 142645](https://github.com/user-attachments/assets/bcd36f54-08ab-47cf-ac85-b90fd77aa945)
 
 
+
+# what is an adder?
+
+  A adder circuit is a digital electronic circuit designed to perform the mathematical operation of addition, essentially adding two binary numbers together. This is how computers make calculations, There are 2 types of adders "half-adder" and "full-adder" , in this document we'll only be going over the half-adder.
+
