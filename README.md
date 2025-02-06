@@ -41,3 +41,27 @@ Sum of 3:
 
   A adder circuit is a digital electronic circuit designed to perform the mathematical operation of addition, essentially adding two binary numbers together. This is how computers make calculations, There are 2 types of adders "half-adder" and "full-adder" , in this document we'll only be going over the half-adder.
 
+# What is a Half-adder?
+
+  A half adder is a basic digital logic circuit that adds two single-bit binary numbers; the 2 outputs an half adder can make is a sum and a carry.
+
+  This is the truth table for an half adder:
+
+  ![Screenshot 2025-02-06 094523](https://github.com/user-attachments/assets/fa5843cf-1e79-44f7-aceb-c0344589c29a)
+
+  This is the wiring of an half adder:
+
+  ![Screenshot 2025-02-06 094723](https://github.com/user-attachments/assets/67ae0dc9-3b1f-433b-a9ed-60f1ac58b299)
+
+  This is the circuit to make an half adder in real life:
+
+  ![Screenshot 2025-02-06 094853](https://github.com/user-attachments/assets/ab3aff1e-38ac-4946-8b57-a88ba2fd3e8c)
+
+
+# Half-adder wiring
+
+![halfaddercircuit0+0](https://github.com/user-attachments/assets/2bddd91d-f728-4ce6-92fd-9f28394f9021)
+
+
+
+
