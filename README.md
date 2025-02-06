@@ -26,3 +26,7 @@ Sum of 3:
 ![Screenshot 2025-02-06 105802](https://github.com/user-attachments/assets/537a71b9-cdca-4483-88d4-86ab597f8f4f)
 
 
+
+# How to read Binary?
+
+  Humans, believe it of not use the base 10 system. that means we count up to 9 until we have to carry. we learned how to count like this all our lifes so its very easy for us to understand. Binary on the other hand use the base 2 system so its a little different, remember we have to carry after 1 so that means that 001 + 001 = 010 this in the base 10 system is 2. 
