@@ -12,6 +12,17 @@ We use binary in computers to compute numbers and values because its the simples
 
 
 
-# How to count in
+# How to count in Binary?
 
-![Binary](https://github.com/user-attachments/assets/5e1dd95f-7c2f-4245-a3b1-913b44652106)
+  Counting in binary is a fairly simple task, remember* the system is base 2 so, numbers such as 2,3,4,5, ect.. does not exist; its only 1's and 0's. With that being said heres how you do it!
+To do binary to binary adding all you have to do is carry when you reach a number higher than 1; for example 101 + 001 is 110. 1 + 1 is 2 so we carry the one to the next place. 111 + 111 is 1110 we get this number because we are carrying to the next but, you notice that when we carry to the next digit we get 3, to handle this instead of putting a 0 and carrying the 1, we put a 1 and carry a 1.
+
+Sum of 2:
+
+![Screenshot 2025-02-06 105747](https://github.com/user-attachments/assets/6678786c-4ce7-4440-a939-143b7ae59f89)
+
+Sum of 3:
+
+![Screenshot 2025-02-06 105802](https://github.com/user-attachments/assets/537a71b9-cdca-4483-88d4-86ab597f8f4f)
+
+
