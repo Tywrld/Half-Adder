@@ -29,4 +29,10 @@ Sum of 3:
 
 # How to read Binary?
 
-  Humans, believe it of not use the base 10 system. that means we count up to 9 until we have to carry. we learned how to count like this all our lifes so its very easy for us to understand. Binary on the other hand use the base 2 system so its a little different, remember we have to carry after 1 so that means that 001 + 001 = 010 this in the base 10 system is 2. 
+  Humans, believe it of not use the base 10 system. that means we count up to 9 until we have to carry. we learned how to count like this all our lifes so its very easy for us to understand. Binary on the other  hand use the base 2 system so its a little different, remember we have to carry after 1 so that means that 001 + 001 = 010 this in the base 10 system is 2. To convert binary to decimal we have to keep on increasing the power of 2 as long as number of digits in binary number increases.
+
+![Screenshot 2025-02-06 142638](https://github.com/user-attachments/assets/6c82adb1-2b16-4119-b06f-c169ac274c6e)
+
+![Screenshot 2025-02-06 142645](https://github.com/user-attachments/assets/bcd36f54-08ab-47cf-ac85-b90fd77aa945)
+
+
