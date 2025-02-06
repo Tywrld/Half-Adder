@@ -8,6 +8,10 @@ In this read me, ill be discussing* how an half adder works along with diagrams 
   Binary is a numbering system that only uses "1" and "0". we can call this on and of, or true and false. We call binary the base 2 system because we use 2 digits to repensent any qauntity.
 We use binary in computers to compute numbers and values because its the simplest method for counting numbers. Computers can use binary to manipulate and store data.
 
+![Binary](https://github.com/user-attachments/assets/087c5d42-fbaf-46f2-9577-d392d229bddc)
+
+
+
 # How to count in
 
 ![Binary](https://github.com/user-attachments/assets/5e1dd95f-7c2f-4245-a3b1-913b44652106)
