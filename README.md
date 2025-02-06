@@ -43,7 +43,12 @@ Sum of 3:
 
 # What is a Half-adder?
 
-  A half adder is a basic digital logic circuit that adds two single-bit binary numbers; the 2 outputs an half adder can make is a sum and a carry.
+  A half-adder is a basic digital logic circuit that adds two single-bit binary numbers; the 2 outputs an half adder can make is a sum and a carry.
+
+  Half-adders use two different logic gates "XOR" and "AND" down bellow you can find the logic behind the gates:
+
+  ![Screenshot 2025-02-06 095038](https://github.com/user-attachments/assets/4c92bca6-9f28-4083-aa52-3d37d1794c2e)
+
 
   This is the truth table for an half adder:
 
