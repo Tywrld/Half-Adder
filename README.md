@@ -68,5 +68,9 @@ Sum of 3:
 ![halfaddercircuit0+0](https://github.com/user-attachments/assets/2bddd91d-f728-4ce6-92fd-9f28394f9021)
 
 
-# 
+# Refrences:
+
+Columbia University. (n.d.). IBM 609 electronic punched card calculator (1954). Columbia University Computing History. https://www.columbia.edu/cu/computinghistory/609.html
+
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
 
