@@ -67,6 +67,13 @@ Sum of 3:
 
 ![halfaddercircuit0+0](https://github.com/user-attachments/assets/2bddd91d-f728-4ce6-92fd-9f28394f9021)
 
+# Old IBM Calculator
+The calculator used many half and full-adders
+
+![609-600](https://github.com/user-attachments/assets/45744fac-7e08-499a-90dd-4a501293636c)
+![609](https://github.com/user-attachments/assets/0944119f-8cc7-4a9d-a6c2-e52c42fbf487)
+
+
 
 # Refrences:
 
